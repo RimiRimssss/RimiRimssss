@@ -70,11 +70,7 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 ---
 
 ### 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suichopatic.rimuru/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RimiRimsss)
-[![Wattpad](https://img.shields.io/badge/Wattpad-FFCC00?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/RimiRimsss)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RimiRimsss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aedrian-manabat-63b536342/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suichopatic.rimuru/)[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RimiRimsss)[![Wattpad](https://img.shields.io/badge/Wattpad-FFCC00?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/RimiRimsss)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RimiRimsss)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aedrian-manabat-63b536342/)
 
 
 <!--
