@@ -88,6 +88,8 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 <img src="https://raw.githubusercontent.com/RimiRimssss/RimiRimssss/output/snake.svg" alt="Snake animation" />
 
+###
+
 <!--
 **RimiRimssss/RimiRimssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
