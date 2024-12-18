@@ -34,48 +34,48 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 ### 👷‍♂️ Games I've worked on
 
--Library of Words
+• Library of Words
 
--EdKanto
+• EdKanto
 
--Soliloquy
+• Soliloquy
 
--PookSapot
+• PookSapot
 
--Doodelz
+• Doodelz
 
--HoloType
+• HoloType
 
--Pokemon Warrior Legends
+• Pokemon Warrior Legends
 
--Journey to the East
+• Journey to the East
 
 ---
 
 ### 📖 Stories I've Writen
 
 #### Stories
--The Tale of a Black Witch
+• The Tale of a Black Witch
 
 #### Animations
--The Rabbit and the River
+• The Rabbit and the River
 
--Lucky Hunt
+• Lucky Hunt
 
 #### Game Narratives
--Library of Words
+• Library of Words
 
--EdKanto
+• EdKanto
 
--Soliloquy
+• Soliloquy
 
--PookSapot
+• PookSapot
 
--Doodelz
+• Doodelz
 
--Pokemon Warrior Legends
+• Pokemon Warrior Legends
 
--The Curse of Haji'lisa
+• The Curse of Haji'lisa
 
 ---
 
