@@ -65,6 +65,7 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 -YouTube
 
+-LinkedIn
 
 
 <!--
