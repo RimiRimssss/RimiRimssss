@@ -17,7 +17,6 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 ### 🔧 Language and Tools Proficient
 
-•
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg"/>
@@ -29,7 +28,7 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=au"/>
 
-•
+-and many more!
 
 ---
 
