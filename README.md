@@ -73,7 +73,7 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/facebook.svg)](https://www.facebook.com/suichopatic.rimuru/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/RimiRimsss)
-[![Wattpad](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/wattpad.svg)](https://www.wattpad.com/user/RimiRimsss)
+[![Wattpad](https://img.shields.io/badge/Wattpad-FFCC00?style=for-the-badge&logo=wattpad&logoColor=white)](https://www.wattpad.com/user/RimiRimsss)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RimiRimsss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aedrian-manabat-63b536342/)
 
