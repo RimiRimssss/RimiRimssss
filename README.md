@@ -18,6 +18,8 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 
+---
+
 ### 👷‍♂️ Games I've worked on
 
 -Library of Words
@@ -28,6 +30,8 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 -HoloType
 -Pokemon Warrior Legends
 -Journey to the East
+
+---
 
 ### 📖 Stories I've Writen
 
@@ -46,6 +50,19 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 -Doodelz
 -Pokemon Warrior Legends
 -The Curse of Haji'lisa
+
+---
+
+### 🌐 Socials
+
+-Facebook
+
+-Twitter
+
+-Wattpad
+
+-YouTube
+
 
 
 <!--
