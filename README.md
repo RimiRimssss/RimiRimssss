@@ -25,12 +25,19 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 ### 👷‍♂️ Games I've worked on
 
 -Library of Words
+
 -EdKanto
+
 -Soliloquy
+
 -PookSapot
+
 -Doodelz
+
 -HoloType
+
 -Pokemon Warrior Legends
+
 -Journey to the East
 
 ---
@@ -42,15 +49,22 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 #### Animations
 -The Rabbit and the River
+
 -Lucky Hunt
 
 #### Game Narratives
 -Library of Words
+
 -EdKanto
+
 -Soliloquy
+
 -PookSapot
+
 -Doodelz
+
 -Pokemon Warrior Legends
+
 -The Curse of Haji'lisa
 
 ---
