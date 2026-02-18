@@ -50,12 +50,20 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 
 • Journey to the East
 
+• Finding Words
+
+• In a Bubble
+
 ---
 
 ### 📖 Stories I've Writen
 
 #### Stories
 • The Tale of a Black Witch
+
+• The Rabbit and the River Script
+
+• Lucky Hunt Script
 
 #### Animations
 • The Rabbit and the River
@@ -76,6 +84,8 @@ Hi There! I am Aedrian Carlo Manabat, a 3rd Year Game Development Student, study
 • Pokemon Warrior Legends
 
 • The Curse of Haji'lisa
+
+• Finding Words
 
 ---
 
